@@ -97,6 +97,8 @@ plt.show()
 ## Output
 
 <img width="1712" height="439" alt="image" src="https://github.com/user-attachments/assets/5e35487a-b389-4a72-8ec9-7311e3dea4f7" />
+<img width="304" height="418" alt="image" src="https://github.com/user-attachments/assets/209e34a5-c108-45b2-b8f2-f6f4b5f28c42" />
+
 
 <img width="1376" height="616" alt="image" src="https://github.com/user-attachments/assets/efca3ef4-c705-4cd1-afe5-e06326f9306f" />
 
