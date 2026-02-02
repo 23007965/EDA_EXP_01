@@ -1,3 +1,7 @@
+```
+Name : P PARTHIBAN
+Register number : 212223230145
+```
 # Experiment 1: EDA in IPL Dataset
 
 ## Aim:
@@ -36,7 +40,3 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   
 ## Result
   This experiment is executed successfully
-
-
-
-Highlight the stadiums hosting maximum matches.
