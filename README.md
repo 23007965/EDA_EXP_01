@@ -59,6 +59,41 @@ plt.title("Number of IPL Matches Played Per Season")
 plt.show()
 ```
 
+```python
+winners=df['winner'].value_counts()
+winners.head()
+
+plt.figure(figsize=(14, 5))
+plt.bar(winners.head(5).index, winners.head(5).values)
+plt.xlabel("Team")
+plt.ylabel("Number of Wins")
+plt.title("Top 5 Teams with Most Wins in IPL")
+plt.show()
+```
+
+```python
+decisions = df['toss_decision'].value_counts()
+decisions
+
+plt.figure(figsize=(6, 4))
+plt.bar(decisions.index,decisions.values)
+plt.xlabel("Toss Decision")
+plt.ylabel("Count")
+plt.title("Toss Decision Preference in IPL")
+plt.show()
+```
+```python
+top_venues = df['venue'].value_counts().head(5)
+top_venues
+
+plt.figure(figsize=(15, 6))
+plt.bar(top_venues.index, top_venues.values)
+plt.xlabel("Venue")
+plt.ylabel("Number of Matches Hosted")
+plt.title("Top 5 Venues Hosting Most IPL Matches")
+plt.show()
+```
+
 ## Output
   #Add necessary output screenhoets
   
