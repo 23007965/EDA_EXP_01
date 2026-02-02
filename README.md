@@ -19,24 +19,22 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   Use value_counts() on the winner column.
   Plot top 5 winning teams in a bar chart.
 ### 5.Toss Decisions (Univariate Analysis)
-
   Count toss decision preferences (bat vs field).
   Plot results using a bar chart.
-  
-**6.Top Venues (Univariate Analysis)**
+### 6.Top Venues (Univariate Analysis)
   Count matches per venue.
   Display top 5 venues with a horizontal bar chart.
-**7.Draw Insights**
+### 7.Draw Insights
   Observe patterns in toss decisions.
   Identify teams with consistent winning trends.
-  
-  **Program**
+
+## Program
   #Write your code here
 
-  **Output**
+## Output
   #Add necessary output screenhoets
-
- ** Result**
+  
+## Result
   This experiment is executed successfully
 
 
