@@ -46,7 +46,18 @@ df.shape
 
 df.head()
 ```
+### Matches per season:
+```python
+season_count=df['season'].value_counts().sort_index()
+season_count
 
+plt.figure(figsize=(14, 6))
+plt.bar(season_count.index, cseason_ount.values)
+plt.xlabel("Season")
+plt.ylabel("Number of Matches")
+plt.title("Number of IPL Matches Played Per Season")
+plt.show()
+```
 
 ## Output
   #Add necessary output screenhoets
