@@ -33,7 +33,20 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   Identify teams with consistent winning trends.
 
 ## Program
-  #Write your code here
+
+### Basic info about dataset:
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df=pd.read_csv("/content/matches.csv")
+df.shape
+
+df.head()
+```
+
 
 ## Output
   #Add necessary output screenhoets
