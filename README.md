@@ -95,7 +95,14 @@ plt.show()
 ```
 
 ## Output
-  #Add necessary output screenhoets
+
+<img width="1376" height="616" alt="image" src="https://github.com/user-attachments/assets/efca3ef4-c705-4cd1-afe5-e06326f9306f" />
+
+<img width="1339" height="522" alt="image" src="https://github.com/user-attachments/assets/83d346f3-4544-47a0-83d3-9270e576cc3b" />
+
+<img width="672" height="436" alt="image" src="https://github.com/user-attachments/assets/0d28d55f-6847-4b63-addd-f25ede4d7ede" />
+
+<img width="1474" height="609" alt="image" src="https://github.com/user-attachments/assets/d1f92b8d-8152-457f-bc6f-b9c867d144dc" />
   
 ## Result
   This experiment is executed successfully
