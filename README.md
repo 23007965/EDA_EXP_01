@@ -19,7 +19,7 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
 ### 3.Matches per Season (Univariate Analysis)
   Group data by season and count matches.
   Plot a bar chart to visualize growth/decline in matches.
-### 4.Top Winning Teams (Univariate Analysis)**
+### 4.Top Winning Teams (Univariate Analysis)
   Use value_counts() on the winner column.
   Plot top 5 winning teams in a bar chart.
 ### 5.Toss Decisions (Univariate Analysis)
@@ -96,7 +96,11 @@ plt.show()
 
 ## Output
 
+### Basic info about dataset:
+
 <img width="1743" height="321" alt="image" src="https://github.com/user-attachments/assets/36f89469-5cba-4711-b061-180ee5fa48a7" />
+
+### Matches per season
 
 <img width="1376" height="616" alt="image" src="https://github.com/user-attachments/assets/efca3ef4-c705-4cd1-afe5-e06326f9306f" />
 
