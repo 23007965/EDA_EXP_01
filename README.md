@@ -58,7 +58,7 @@ plt.ylabel("Number of Matches")
 plt.title("Number of IPL Matches Played Per Season")
 plt.show()
 ```
-### Top Winning Teams
+### Top Winning Teams:
 
 ```python
 winners=df['winner'].value_counts()
@@ -101,13 +101,15 @@ plt.show()
 
 ### Basic info about dataset:
 
+<img width="958" height="20" alt="image" src="https://github.com/user-attachments/assets/e585e9f8-0c92-4670-8c6f-17f973753af7" />
+
 <img width="1743" height="321" alt="image" src="https://github.com/user-attachments/assets/36f89469-5cba-4711-b061-180ee5fa48a7" />
 
 ### Matches per season:
 
 <img width="1376" height="616" alt="image" src="https://github.com/user-attachments/assets/efca3ef4-c705-4cd1-afe5-e06326f9306f" />
 
-### Top Winning Teams
+### Top Winning Teams:
 
 <img width="1339" height="522" alt="image" src="https://github.com/user-attachments/assets/83d346f3-4544-47a0-83d3-9270e576cc3b" />
 
