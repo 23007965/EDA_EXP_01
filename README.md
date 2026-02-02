@@ -3,20 +3,20 @@
 ## Aim:
 To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive insights about matches per season, winning teams, toss decisions, and top venues.
 
-**Algorithm / Procedure:**
+##Algorithm / Procedure:
 
-**1.Import Libraries**
+### 1.Import Libraries
 
   Import pandas for data handling.
   Import matplotlib and seaborn for visualization.
   
-**2.Load Dataset**
+### 2.Load Dataset
 
   Use pd.read_csv() to load the IPL matches dataset.
   Check dataset shape using .shape.
   View first 5 rows using .head().
   
-**3.Matches per Season (Univariate Analysis)**
+### 3.Matches per Season (Univariate Analysis)
 
   Group data by season and count matches.
   Plot a bar chart to visualize growth/decline in matches.
