@@ -58,6 +58,7 @@ plt.ylabel("Number of Matches")
 plt.title("Number of IPL Matches Played Per Season")
 plt.show()
 ```
+### Top Winning Teams
 
 ```python
 winners=df['winner'].value_counts()
@@ -70,7 +71,7 @@ plt.ylabel("Number of Wins")
 plt.title("Top 5 Teams with Most Wins in IPL")
 plt.show()
 ```
-
+### Toss Decisions:
 ```python
 decisions = df['toss_decision'].value_counts()
 decisions
@@ -82,6 +83,8 @@ plt.ylabel("Count")
 plt.title("Toss Decision Preference in IPL")
 plt.show()
 ```
+
+### Toss Venues:
 ```python
 top_venues = df['venue'].value_counts().head(5)
 top_venues
@@ -100,13 +103,19 @@ plt.show()
 
 <img width="1743" height="321" alt="image" src="https://github.com/user-attachments/assets/36f89469-5cba-4711-b061-180ee5fa48a7" />
 
-### Matches per season
+### Matches per season:
 
 <img width="1376" height="616" alt="image" src="https://github.com/user-attachments/assets/efca3ef4-c705-4cd1-afe5-e06326f9306f" />
 
+### Top Winning Teams
+
 <img width="1339" height="522" alt="image" src="https://github.com/user-attachments/assets/83d346f3-4544-47a0-83d3-9270e576cc3b" />
 
+### Toss Decisions:
+
 <img width="672" height="436" alt="image" src="https://github.com/user-attachments/assets/0d28d55f-6847-4b63-addd-f25ede4d7ede" />
+
+### Top Venues:
 
 <img width="1474" height="609" alt="image" src="https://github.com/user-attachments/assets/d1f92b8d-8152-457f-bc6f-b9c867d144dc" />
   
